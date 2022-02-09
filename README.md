@@ -1,4 +1,4 @@
-# WEBAPP DE SUPORTE DESENVOLVIDO EM PHP COM MVC.
+# WEBAPP DE SUPORTE DESENVOLVIDO EM PHP COM MVC
 
 Um Webapp de suporte desenvolvido em PHP com MVC para suporte.
 
