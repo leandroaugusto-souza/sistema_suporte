@@ -40,7 +40,7 @@
 		                                      // TCP port to connect to
 
 		    //Recipients
-		    $mail->setFrom('leandrocontabil@yahoo.com.br', 'Leandro');
+		    $mail->setFrom('', 'Leandro');
 		    $mail->addAddress($email, '');
 
 		    //Content
